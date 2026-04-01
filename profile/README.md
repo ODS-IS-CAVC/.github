@@ -1,4 +1,4 @@
-<img src="../images/ODS_Logo.png" width="60%">
+<img src="https://github.com/ODS-IS-CAVC/.github/blob/main/images/ODS_Logo.png" width="60%">
 
 ## Open Data Spaces 自動運転支援道データ連携基盤 関連リポジトリ
 
